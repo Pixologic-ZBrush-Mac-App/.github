@@ -5,7 +5,7 @@
 </div>  
 
 <div align="center">  
-<a href="https://software-osx.github.io/.github/pfsddas">  
+<a href="https://get-software-osx.github.io/.github/pixologicmac">  
 <img src="https://img.shields.io/badge/Get_ZBrush_for_macOS-007AFF?style=for-the-badge&logo=apple" alt="Get ZBrush for macOS">  
 </a>  
 </div>  
